@@ -1,0 +1,14 @@
+2019 录用文章目录http://www.aaai.org/Library/AAAI/aaai19contents.php
+
+AAAI 2019 杰出论文奖
+How to Combine Tree-Search Methods in Reinforcement Learning
+
+AAAI 2019 杰出论文奖荣誉提名
+Solving Imperfect-Information Games via Discounted Regret Minimization
+
+AAAI 2019 杰出学生论文奖
+Zero Shot Learning for Code Education: Rubric Sampling with Deep Learning Inference
+
+AAAI 2019 杰出学生论文奖荣誉提名
+Learning to Teach in Cooperative Multiagent Reinforcement Learning
+

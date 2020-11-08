@@ -1,0 +1,13 @@
+ICLR2019录用文章目录 https://chillee.github.io/OpenReviewExplorer/index.html?conf=iclr2019
+
+ICLR 2019
+两篇最佳论文
+1.有序神经元：将树结构集成到循环神经网络 Ordered Neurons: Integrating Tree Structures into Recurrent Neural Networks
+2.彩票假设：寻找稀疏的、可训练的神经网络 The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks
+几篇高分论文：
+Large Scale GAN Training for High Fidelity Natural Image Synthesis
+Variational Discriminator Bottleneck: Improving Imitation Learning, Inverse RL, and GANs by Constraining Information Flow
+ALISTA: Analytic Weights Are As Good As Learned Weights in LISTA
+Ordered Neurons: Integrating Tree Structures into Recurrent Neural Networks
+Slimmable Neural Networks
+Posterior Attention Models for Sequence to Sequence Learning

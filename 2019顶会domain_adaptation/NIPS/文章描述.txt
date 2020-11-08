@@ -1,0 +1,15 @@
+NIPS 2019 录用文章目录 https://nips.cc/Conferences/2019/Schedule?type=Poster
+
+NIP2019
+杰出论文奖
+论文名称：Distribution-Independent PAC Learning of Halfspaces with Massart Noise
+
+杰出新方向论文奖
+论文名称：Uniform convergence may be unable to explain generalization in deep learning
+
+杰出论文奖荣誉提名
+论文名称：Nonparametric density estimation & convergence of GANs under Besov IPM losses
+
+杰出新方向论文奖荣誉提名
+论文名称：Putting An End to End-to-End: Gradient-Isolated Learning of Representations
+

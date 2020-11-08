@@ -1,0 +1,12 @@
+ICML 2019 https://icml.cc/Conferences/2019/Schedule?type=Poster 
+两篇 最佳论文
+1.挑战无监督解耦表示中的常见假设  Challenging Common Assumptions in the Unsupervised Learning of Disentangled Representations
+2.稀疏高斯过程回归变分的收敛速度 Rates of Convergence for Sparse Variational Gaussian Process Regression
+7篇 提名奖
+1.类比可解释性：趋向理解词嵌入 Analogies Explained: Towards Understanding Word Embeddings
+2.SATNet：使用差分可满足性求解器来桥接深度学习和逻辑推理 SATNet: Bridging deep learning and logical reasoning using a differentiable satisfiability solver
+3.深度神经网络中随机梯度噪声的尾指数分析 A Tail-Index Analysis of Stochastic Gradient Noise in Deep Neural Networks
+4.趋向随机傅里叶特征的统一分析 Towards A Unified Analysis of Random Fourier Features
+5.分期偿还的蒙特卡罗积分 Amortized Monte Carlo Integration
+6.多智能体深度强化学习的内在动机的社会影响 Social Influence as Intrinsic Motivation for Multi-Agent Deep Reinforcement Learning
+7.随机波束以及找到它们的地方：取样序列无需更换的 Gumbel-Top-k 方法 Stochastic Beams and Where to Find Them: The Gumbel-Top-k Trick for Sampling Sequences Without Replacement

@@ -1,0 +1,7 @@
+IJCAI 2019 录用文章目录 https://www.ijcai.org/Proceedings/2019/
+
+IJCAI2019
+一篇杰出论文 (Distinguished Paper）
+Boosting for Comparison-Based Learning
+ IJCAI-JAIR 最佳论文
+Clause Elimination for SAT and QSAT
